@@ -1,0 +1,66 @@
+NET "qzt_clk" LOC = "T9" ;
+
+
+// NET "pushButton<0>" LOC = "M13";
+// NET "pushButton<1>" LOC = "M14";
+// NET "pushButton<2>" LOC = "L13";
+// NET "pushButton<3>" LOC = "L14";
+
+
+NET "enable_sincro" LOC = "F12";
+// NET "slideSwitch<1>" LOC = "G12";
+// NET "slideSwitch<2>" LOC = "H14";
+// NET "slideSwitch<3>" LOC = "H13";
+// NET "slideSwitch<4>" LOC = "J14";
+// NET "slideSwitch<5>" LOC = "J13";
+// NET "slideSwitch<6>" LOC = "K14";
+NET "enable_lp" LOC = "K13";
+
+
+NET "led<0>" LOC = "K12";
+NET "led<1>" LOC = "P14";
+NET "led<2>" LOC = "L12";
+NET "led<3>" LOC = "N14";
+NET "led<4>" LOC = "P13";
+// NET "led<5>" LOC = "N12";
+// NET "led<6>" LOC = "P12";
+// NET "led<7>" LOC = "P11";
+
+
+NET "sevenSegmentDigit_Element<0>" LOC = "E14";
+NET "sevenSegmentDigit_Element<1>" LOC = "G13";
+NET "sevenSegmentDigit_Element<2>" LOC = "N15";
+NET "sevenSegmentDigit_Element<3>" LOC = "P15";
+NET "sevenSegmentDigit_Element<4>" LOC = "R16";
+NET "sevenSegmentDigit_Element<5>" LOC = "F13";
+NET "sevenSegmentDigit_Element<6>" LOC = "N16";
+NET "sevenSegmentDigit_Element<7>" LOC = "P16";
+
+
+NET "sevenSegmentDigit_Anode<0>" LOC = "D14";
+NET "sevenSegmentDigit_Anode<1>" LOC = "G14";
+NET "sevenSegmentDigit_Anode<2>" LOC = "F14";
+NET "sevenSegmentDigit_Anode<3>" LOC = "E13";
+
+
+// NET "Porta_0<0>" LOC = "E6";		//	piedino  4
+// NET "Porta_0<1>" LOC = "C5";		//	piedino  6
+// NET "Porta_0<2>" LOC = "C6";		//	piedino  8
+// NET "Porta_0<3>" LOC = "C7";		//	piedino  10
+// NET "Porta_0<4>" LOC = "C8";		//	piedino  12
+// NET "Porta_0<5>" LOC = "C9";		//	piedino  14
+// NET "Porta_0<6>" LOC = "A3";		//	piedino  16
+// NET "Porta_0<7>" LOC = "A4";		//	piedino  18
+
+
+//NET "Porta_1<0>" LOC = "D5";		//	piedino  5
+//NET "Porta_1<1>" LOC = "D6";		//	piedino  7
+//NET "Porta_1<2>" LOC = "E7";		//	piedino  9
+//NET "Porta_1<3>" LOC = "D7";		//	piedino  11
+//NET "Porta_1<4>" LOC = "D8";		//	piedino  13
+//NET "Porta_1<5>" LOC = "D10";		//	piedino  15
+//NET "Porta_1<6>" LOC = "B4";		//	piedino  17
+//NET "Porta_1<7>" LOC = "B5";		//	piedino  19
+
+
+// NET "gateIn" LOC = "A5";		//	piedino  20
